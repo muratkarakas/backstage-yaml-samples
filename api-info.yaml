@@ -8,4 +8,4 @@ spec:
   lifecycle: production
   owner: spotify
   definition:
-    $text: https://api.apis.guru/v2/specs/spotify.com/2021.8.15/openapi.yaml
+    $url: https://api.apis.guru/v2/specs/spotify.com/2021.8.15/openapi.yaml
